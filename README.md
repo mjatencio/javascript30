@@ -1,2 +1,3 @@
-# javascript30
-"JavaScript 30" Wes Bos course exercises
+# Javascript 30
+"JavaScript 30" (https://javascript30.com/) Wes Bos course exercises...
+
